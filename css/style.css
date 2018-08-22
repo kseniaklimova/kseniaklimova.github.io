@@ -1,6 +1,6 @@
 .logo {
   font-family: sans-serif;
-background-color: pink;
+background-color: tomato;
 margin: 0;
 }
 
@@ -45,8 +45,8 @@ width: 100%;
 
 .photograph {
   max-width: 50%;
-width: 100;
-height: 100;
+width: 200;
+height: 200;
 border-radius: 50%;
 border: 10px solid lightblue;
 }
