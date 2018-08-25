@@ -31,7 +31,7 @@ width: 100%;
 }
 
 .icon li {
-  color: tomato;
+
   font-size: 18px;
  margin-bottom: 20px;
  margin-top: 20px;
@@ -68,7 +68,7 @@ margin-right: auto;
 
 a {
 text-decoration: none
-color: tomato;
+
 }
 
 .menu{
@@ -213,9 +213,7 @@ border: none;
 
 }
 
-a:link {
-  color: tomato;
-}
+
 
 
 
