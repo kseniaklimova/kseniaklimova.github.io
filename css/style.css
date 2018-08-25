@@ -177,6 +177,10 @@ font-size: 13px;
 
 }
 
+#secondary {
+color: tomato;
+}
+
 input[type=text], select, textarea  {
     width: 100%;
     padding: 12px 20px;
