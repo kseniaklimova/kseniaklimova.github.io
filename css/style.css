@@ -129,6 +129,10 @@ max-width: 50%;
   list-style: none;
 }
 
+.icon li {
+  color: tomato;
+}
+
 .icon a{
 display: block;
 background-repeat: no-repeat;
